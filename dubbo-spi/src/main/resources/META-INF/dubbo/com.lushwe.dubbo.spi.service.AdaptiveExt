@@ -1,0 +1,2 @@
+spring=com.lushwe.dubbo.spi.service.impl.SpringAdaptiveExtImpl
+dubbo=com.lushwe.dubbo.spi.service.impl.DubboAdaptiveExtImpl
